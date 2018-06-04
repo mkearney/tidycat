@@ -46,4 +46,3 @@ ggplot(h1, aes(x, y)) +
 ## ignore in build
 usethis::use_build_ignore("logo.R")
 usethis::use_build_ignore("make.R")
-
